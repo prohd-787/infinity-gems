@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "infinitygems:ruby",
+    "infinitygems:sapphire",
+    "infinitygems:emerald",
+    "infinitygems:amethyst",
+    "infinitygems:topaz",
+    "infinitygems:void_gem",
+    "infinitygems:infinity_core",
+    "minecraft:nether_star",
+    "minecraft:nether_star"
+  ],
+  "result": { "id": "infinitygems:infinity_gem", "count": 1 }
+}

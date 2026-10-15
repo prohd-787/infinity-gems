@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["GDG", "INI", "GDG"],
+  "key": {
+    "G": "minecraft:gold_block",
+    "D": "minecraft:diamond",
+    "I": "minecraft:iron_block",
+    "N": "minecraft:netherite_ingot"
+  },
+  "result": { "id": "infinitygems:topaz", "count": 1 }
+}

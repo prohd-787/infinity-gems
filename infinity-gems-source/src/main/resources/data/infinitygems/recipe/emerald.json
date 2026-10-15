@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["EDE", "GNG", "EDE"],
+  "key": {
+    "E": "minecraft:emerald_block",
+    "D": "minecraft:diamond",
+    "G": "minecraft:golden_apple",
+    "N": "minecraft:netherite_ingot"
+  },
+  "result": { "id": "infinitygems:emerald", "count": 1 }
+}

@@ -1,0 +1,43 @@
+{
+  "itemGroup.infinitygems": "Infinity Gems",
+
+  "item.infinitygems.ruby": "Rubin",
+  "item.infinitygems.sapphire": "Saphir",
+  "item.infinitygems.emerald": "Smaragd der Natur",
+  "item.infinitygems.amethyst": "Blitz-Amethyst",
+  "item.infinitygems.topaz": "Topas",
+  "item.infinitygems.void_gem": "Void-Gem",
+  "item.infinitygems.infinity_core": "Infinity Core",
+  "item.infinitygems.infinity_gem": "Infinity Gem",
+
+  "tooltip.infinitygems.duration": "Dauer: %s s",
+  "tooltip.infinitygems.cooldown": "Abklingzeit: %s s",
+
+  "tooltip.infinitygems.ruby.1": "Rechtsklick: Schießt drei Feuerbälle in Blickrichtung.",
+  "tooltip.infinitygems.ruby.2": "Getroffene Gegner nehmen Schaden und brennen.",
+  "tooltip.infinitygems.ruby.3": "Passiv: Feuerresistenz, solange du den Rubin in der Hand hältst.",
+
+  "tooltip.infinitygems.sapphire.1": "Rechtsklick: Frostwelle um dich herum (8 Blöcke).",
+  "tooltip.infinitygems.sapphire.2": "Gegner in der Nähe werden eingefroren und nehmen Schaden.",
+
+  "tooltip.infinitygems.emerald.1": "Rechtsklick: Heilt dich und gibt Regeneration II.",
+  "tooltip.infinitygems.emerald.2": "Spieler in 8 Blöcken Umkreis werden ebenfalls geheilt.",
+
+  "tooltip.infinitygems.amethyst.1": "Rechtsklick: Teleportiert dich bis zu 12 Blöcke in Blickrichtung.",
+  "tooltip.infinitygems.amethyst.2": "Gibt Geschwindigkeit III und Sprungkraft III.",
+
+  "tooltip.infinitygems.topaz.1": "Rechtsklick: Stärke II und Widerstand II.",
+  "tooltip.infinitygems.topaz.2": "Deine Nahkampfangriffe richten deutlich mehr Schaden an.",
+
+  "tooltip.infinitygems.void_gem.1": "Rechtsklick: Teleportiert dich bis zu 16 Blöcke in Blickrichtung.",
+  "tooltip.infinitygems.void_gem.2": "Macht dich kurz unsichtbar.",
+
+  "tooltip.infinitygems.infinity_core.1": "Ein Kern aus purer Unendlichkeit.",
+  "tooltip.infinitygems.infinity_core.2": "Vereint sechs Gems zum Infinity Gem.",
+
+  "tooltip.infinitygems.infinity_gem.1": "Rechtsklick: Aktiviert den Infinity-Modus.",
+  "tooltip.infinitygems.infinity_gem.2": "Heilt dich und Verbündete, friert Gegner ein und setzt sie in Brand.",
+  "tooltip.infinitygems.infinity_gem.3": "Gibt Geschwindigkeit, Sprungkraft, Stärke, Widerstand,",
+  "tooltip.infinitygems.infinity_gem.4": "Feuerresistenz und Absorption. Kurz unsichtbar.",
+  "tooltip.infinitygems.infinity_gem.5": "Passiv: Feuerresistenz in der Hand."
+}

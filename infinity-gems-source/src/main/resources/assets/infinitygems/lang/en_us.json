@@ -1,0 +1,43 @@
+{
+  "itemGroup.infinitygems": "Infinity Gems",
+
+  "item.infinitygems.ruby": "Ruby",
+  "item.infinitygems.sapphire": "Sapphire",
+  "item.infinitygems.emerald": "Emerald of Nature",
+  "item.infinitygems.amethyst": "Lightning Amethyst",
+  "item.infinitygems.topaz": "Topaz",
+  "item.infinitygems.void_gem": "Void Gem",
+  "item.infinitygems.infinity_core": "Infinity Core",
+  "item.infinitygems.infinity_gem": "Infinity Gem",
+
+  "tooltip.infinitygems.duration": "Duration: %s s",
+  "tooltip.infinitygems.cooldown": "Cooldown: %s s",
+
+  "tooltip.infinitygems.ruby.1": "Right-click: Shoots three fireballs where you look.",
+  "tooltip.infinitygems.ruby.2": "Hit enemies take damage and burn.",
+  "tooltip.infinitygems.ruby.3": "Passive: Fire resistance while held in hand.",
+
+  "tooltip.infinitygems.sapphire.1": "Right-click: Frost wave around you (8 blocks).",
+  "tooltip.infinitygems.sapphire.2": "Nearby enemies are frozen and take damage.",
+
+  "tooltip.infinitygems.emerald.1": "Right-click: Heals you and grants Regeneration II.",
+  "tooltip.infinitygems.emerald.2": "Players within 8 blocks are healed too.",
+
+  "tooltip.infinitygems.amethyst.1": "Right-click: Teleports you up to 12 blocks forward.",
+  "tooltip.infinitygems.amethyst.2": "Grants Speed III and Jump Boost III.",
+
+  "tooltip.infinitygems.topaz.1": "Right-click: Strength II and Resistance II.",
+  "tooltip.infinitygems.topaz.2": "Your melee attacks deal much more damage.",
+
+  "tooltip.infinitygems.void_gem.1": "Right-click: Teleports you up to 16 blocks forward.",
+  "tooltip.infinitygems.void_gem.2": "Makes you briefly invisible.",
+
+  "tooltip.infinitygems.infinity_core.1": "A core of pure infinity.",
+  "tooltip.infinitygems.infinity_core.2": "Combines six gems into the Infinity Gem.",
+
+  "tooltip.infinitygems.infinity_gem.1": "Right-click: Activates Infinity mode.",
+  "tooltip.infinitygems.infinity_gem.2": "Heals you and allies, freezes and ignites enemies.",
+  "tooltip.infinitygems.infinity_gem.3": "Grants Speed, Jump Boost, Strength, Resistance,",
+  "tooltip.infinitygems.infinity_gem.4": "Fire Resistance and Absorption. Briefly invisible.",
+  "tooltip.infinitygems.infinity_gem.5": "Passive: Fire resistance while held."
+}

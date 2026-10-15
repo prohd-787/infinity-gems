@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["LDL", "PNP", "LDL"],
+  "key": {
+    "L": "minecraft:lapis_block",
+    "D": "minecraft:diamond",
+    "P": "minecraft:packed_ice",
+    "N": "minecraft:netherite_ingot"
+  },
+  "result": { "id": "infinitygems:sapphire", "count": 1 }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["COC", "ENE", "COC"],
+  "key": {
+    "C": "minecraft:crying_obsidian",
+    "O": "minecraft:diamond",
+    "E": "minecraft:echo_shard",
+    "N": "minecraft:netherite_ingot"
+  },
+  "result": { "id": "infinitygems:void_gem", "count": 1 }
+}

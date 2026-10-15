@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "infinitygems",
+  "version": "${version}",
+  "name": "Infinity Gems",
+  "description": "Sechs Edelsteine mit Spezialkräften, der Infinity Core und der mächtige Infinity Gem.",
+  "authors": ["Infinity Gems"],
+  "license": "MIT",
+  "icon": "assets/infinitygems/textures/item/infinity_gem.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.infinitygems.InfinityGems"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

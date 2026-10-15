@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["ADA", "PNP", "ADA"],
+  "key": {
+    "A": "minecraft:amethyst_block",
+    "D": "minecraft:diamond",
+    "P": "minecraft:ender_pearl",
+    "N": "minecraft:netherite_ingot"
+  },
+  "result": { "id": "infinitygems:amethyst", "count": 1 }
+}
